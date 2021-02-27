@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCalculatrice</string>
+    <string name="btn_add">add</string>
+</resources>
